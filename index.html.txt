@@ -5,6 +5,7 @@
 new_feature
 
 </body>
+
 </html>
 
 
@@ -15,4 +16,5 @@ new_feature
 master
 
 </body>
+
 </html>
